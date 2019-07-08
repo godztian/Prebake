@@ -317,6 +317,7 @@ interia.pl###inpl_cp_cnt
 investor.hu##div[class="accept-cookie-open"]
 iopscience.iop.org##.cookies-banner-wrap
 irishtimes.com###cookies-policy
+itavisen.no###CybotCookieDialog
 itele.fr###cnil_alert_inner
 itv.com###itv-cookie-notification
 jak.se###cookies-notification
